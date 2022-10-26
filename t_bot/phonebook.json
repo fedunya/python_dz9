@@ -1,0 +1,26 @@
+[
+     {
+          "Name": "Tracy",
+          "Surname": "Barnes",
+          "Phone": "1(302)013-86-79",
+          "Remarks": "Perris"
+     },
+     {
+          "Name": "James",
+          "Surname": "Berry",
+          "Phone": "1(302)978-88-65",
+          "Remarks": "Santa Clara"
+     },
+     {
+          "Name": "Marlene",
+          "Surname": "Wong",
+          "Phone": "1(302)140-70-44",
+          "Remarks": "Waltham"
+     },
+     {
+          "Name": "Danny",
+          "Surname": "Thomas",
+          "Phone": "1(302)743-35-42",
+          "Remarks": "Perth Amboy"
+     }
+]
