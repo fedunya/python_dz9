@@ -41,7 +41,7 @@ async def import_from_json(update: Update, context: ContextTypes.DEFAULT_TYPE) -
     md.data_to_csv('phonebook.csv', md.import_json('phonebook.json'))
     await update.message.reply_text('Контакты успешно импортированы в телефонную книгу')
 
-app = ApplicationBuilder().token("5572512702:AAEQRusfhs2v-ptodehDezryf-kCSXmp7c8").build()
+app = ApplicationBuilder().token("Token").build()
 
 app.add_handler(CommandHandler("hello", hello))
 app.add_handler(CommandHandler("help", help))
